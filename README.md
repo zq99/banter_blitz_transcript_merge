@@ -1,4 +1,4 @@
-# Banter Blitz Transcript Merge
+# Merge Banter Blitz Transcripts
 
 Quick script to merge chess commentary from Chess24's Banter Blitz Cup transcripts.
 
