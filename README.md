@@ -4,10 +4,8 @@ Script to merge chess commentary from Chess24's Banter Blitz Cup transcripts.
 Banter Blitz Cup is an online chess tournament, where the players give commentary on separate
 streams about the game, as they are playing.
 
-The idea of this script is to a build picture of what the GM's are thinking at the same moment in time,
-by combining their comments.
-
-## Data
+The idea of the script is to a build picture of what the GM's are thinking at the same moment in time,
+by combining their dialog from separate streams.
 
 Tested using the YouTube scripts from the Alireza Firouzja V Magnus Carlsen final.
 
