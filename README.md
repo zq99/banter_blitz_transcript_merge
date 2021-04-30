@@ -1,6 +1,5 @@
-# Merge Banter Blitz Transcripts
 
-Quick script to merge chess commentary from Chess24's Banter Blitz Cup transcripts.
+Script to merge chess commentary from Chess24's Banter Blitz Cup transcripts.
 
 Banter Blitz Cup is an online chess tournament, where the players give commentary on separate
 streams about the game, as they are playing.
